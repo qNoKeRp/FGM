@@ -5,7 +5,9 @@ FGM - Fun Gamerule Manager
  - 1.16
 
 Команды:
- - /grule help
- - /grule <Мир> <Правило> <Значение> 
- - /defaultGamerule <Правило> <Значение> # Установка дефолтных правил в конфиг
- - /defaultGamerule reload # Перезагрузка конфига
+ - /grule help   - информация о команде
+ - /grule <Мир> <Правило> <Значение>   - Установка правила в выбранном мире 
+ 
+ - /defaultGamerule help    - информация о команде
+ - /defaultGamerule <Правило> <Значение>   - Установка дефолтных правил в конфиг
+ - /defaultGamerule reload    - Перезагрузка конфига
