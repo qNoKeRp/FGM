@@ -1,0 +1,9 @@
+name: FGM
+version: '${project.version}'
+main: fun.gamerule.manager.fgm.FGM
+api-version: 1.16
+authors: [ qNoKeRp ]
+commands:
+  grule: {}
+
+
