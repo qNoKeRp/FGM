@@ -2,7 +2,6 @@ package fun.gamerule.manager.fgm;
 
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.configuration.file.YamlConfiguration;
-import fun.gamerule.manager.fgm.FGM;
 
 import java.io.File;
 import java.io.IOException;
