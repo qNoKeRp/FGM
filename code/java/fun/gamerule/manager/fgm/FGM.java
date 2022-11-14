@@ -19,7 +19,7 @@ public final class FGM extends JavaPlugin {
     //Список правил и список значений
     List<String> s1 = Arrays.asList("announceAdvancements", "commandBlockOutput", "disableElytraMovementCheck", "disableRaids", "doDaylightCycle", "doEntityDrops", "doFireTick", "doImmediateRespawn", "doInsomnia", "doImmediateRespawn", "doLimitedCrafting", "doMobLoot", "doMobSpawning", "doPatrolSpawning", "doTileDrops", "doTraderSpawning", "doWeatherCycle", "drowningDamage", "fallDamage", "fireDamage", "forgiveDeadPlayers", "keepInventory", "logAdminCommands", "maxCommandChainLength", "maxEntityCramming", "mobGriefing", "naturalRegeneration", "randomTickSpeed", "reducedDebugInfo", "sendCommandFeedback", "showDeathMessages", "spawnRadius", "spectatorsGenerateChunks", "universalAnger");
     List<String> rules_int = Arrays.asList("maxCommandChainLength", "randomTickSpeed", "spawnRadius", "maxEntityCramming");
-     List<String> s2 = Arrays.asList("true", "false");
+    List<String> s2 = Arrays.asList("true", "false");
     private static FGM instance;
     private ConfigManager data;
 
